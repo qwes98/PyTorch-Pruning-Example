@@ -37,7 +37,6 @@ $ python prune.py
 
 ### Run Pruning
 <img src="./imgs/prune1.png" alt="drawing" width="400"/>
-<br/>
 <img src="./imgs/prune2.png" alt="drawing" width="400"/>
 <img src="./imgs/prune3.png" alt="drawing" width="570"/>
 
