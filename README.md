@@ -32,13 +32,14 @@ $ python prune.py
 
 ## Result of test
 ### Run Pre-Training
-<img src="./imgs/pretrain1.png" alt="drawing" width="600"/>
+<img src="./imgs/pretrain1.png" alt="drawing" width="580"/>
 
 
 ### Run Pruning
-<img src="./imgs/prune1.png" alt="drawing" width="440"/>
-<img src="./imgs/prune2.png" alt="drawing" width="440"/>
-<img src="./imgs/prune3.png" alt="drawing" width="600"/>
+<img src="./imgs/prune1.png" alt="drawing" width="400"/>
+<br/>
+<img src="./imgs/prune2.png" alt="drawing" width="400"/>
+<img src="./imgs/prune3.png" alt="drawing" width="570"/>
 
 ## References
 
