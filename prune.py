@@ -264,7 +264,7 @@ def main():
                        device=cuda_device)
 
     train_loader, test_loader, classes = prepare_dataloader(
-        num_workers=args.n_cpu, train_batch_size=args.train_batch_sie, eval_batch_size=args.eval_batch_size)
+        num_workers=args.n_cpu, train_batch_size=args.train_batch_size, eval_batch_size=args.eval_batch_size)
 
     _, eval_accuracy = evaluate_model(model=model,
                                       test_loader=test_loader,
